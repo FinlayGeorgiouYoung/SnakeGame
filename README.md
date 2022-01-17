@@ -2,6 +2,7 @@
 Recreated the retro game Snake using Java Swing. 
 
 ### How to Run
+- Open the project up in an IDE.
 - Run the class Main.
 - A small window will pop up with the game, and will say where to click to start the game.
 - Once you click start, use the arrow keys to direct the snake.
